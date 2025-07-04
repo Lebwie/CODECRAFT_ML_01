@@ -85,7 +85,7 @@ This file is ready to submit to Kaggle or for your internship review.
 
 ## 🙋‍♂️ Author
 
-* Name: *Your Name Here*
+* Name: *Krishna Chopra*
 * Internship Project — July 2025
 
 ---
